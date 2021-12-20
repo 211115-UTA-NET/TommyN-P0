@@ -1,0 +1,15 @@
+F:\[Revature]\[Git]\TommyN\VS\Project0App\Project0Tests\bin\Debug\net6.0\Project0Tests.exe
+F:\[Revature]\[Git]\TommyN\VS\Project0App\Project0Tests\bin\Debug\net6.0\Project0Tests.deps.json
+F:\[Revature]\[Git]\TommyN\VS\Project0App\Project0Tests\bin\Debug\net6.0\Project0Tests.runtimeconfig.json
+F:\[Revature]\[Git]\TommyN\VS\Project0App\Project0Tests\bin\Debug\net6.0\Project0Tests.dll
+F:\[Revature]\[Git]\TommyN\VS\Project0App\Project0Tests\bin\Debug\net6.0\ref\Project0Tests.dll
+F:\[Revature]\[Git]\TommyN\VS\Project0App\Project0Tests\bin\Debug\net6.0\Project0Tests.pdb
+F:\[Revature]\[Git]\TommyN\VS\Project0App\Project0Tests\obj\Debug\net6.0\Project0Tests.csproj.AssemblyReference.cache
+F:\[Revature]\[Git]\TommyN\VS\Project0App\Project0Tests\obj\Debug\net6.0\Project0Tests.GeneratedMSBuildEditorConfig.editorconfig
+F:\[Revature]\[Git]\TommyN\VS\Project0App\Project0Tests\obj\Debug\net6.0\Project0Tests.AssemblyInfoInputs.cache
+F:\[Revature]\[Git]\TommyN\VS\Project0App\Project0Tests\obj\Debug\net6.0\Project0Tests.AssemblyInfo.cs
+F:\[Revature]\[Git]\TommyN\VS\Project0App\Project0Tests\obj\Debug\net6.0\Project0Tests.csproj.CoreCompileInputs.cache
+F:\[Revature]\[Git]\TommyN\VS\Project0App\Project0Tests\obj\Debug\net6.0\Project0Tests.dll
+F:\[Revature]\[Git]\TommyN\VS\Project0App\Project0Tests\obj\Debug\net6.0\ref\Project0Tests.dll
+F:\[Revature]\[Git]\TommyN\VS\Project0App\Project0Tests\obj\Debug\net6.0\Project0Tests.pdb
+F:\[Revature]\[Git]\TommyN\VS\Project0App\Project0Tests\obj\Debug\net6.0\Project0Tests.genruntimeconfig.cache
