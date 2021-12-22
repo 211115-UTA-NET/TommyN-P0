@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Project0Tests
 {
-    internal class HistoryTests
+    public class HistoryTests
     {
     }
 }

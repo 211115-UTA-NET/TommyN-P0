@@ -8,11 +8,10 @@ namespace Project0Logic
 {
     public interface IProductInfo
     {
+        int ProductId { get; }
         string ProductName { get; }
-        string Description { get; }
-        string StoreLocation { get; }
-        int ProductId { get; } 
         double Price { get; }
+        string StoreLocation { get; }
         int ProductCount { get; set; }
         int ProductLimit { get; }
     }

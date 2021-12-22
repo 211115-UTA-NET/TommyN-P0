@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\[Revature]\\[Git]\\TommyN\\VS\\Project0App\\Project0Tests\\Project0Tests.csproj",
+      "projectUniqueName": "F:\\[Revature]\\[Git]\\TommyN-P0\\Project0Tests\\Project0Tests.csproj",
       "projectName": "Project0Tests",
-      "projectPath": "F:\\[Revature]\\[Git]\\TommyN\\VS\\Project0App\\Project0Tests\\Project0Tests.csproj",
+      "projectPath": "F:\\[Revature]\\[Git]\\TommyN-P0\\Project0Tests\\Project0Tests.csproj",
       "packagesPath": "C:\\Users\\Trung\\.nuget\\packages\\",
-      "outputPath": "F:\\[Revature]\\[Git]\\TommyN\\VS\\Project0App\\Project0Tests\\obj\\",
+      "outputPath": "F:\\[Revature]\\[Git]\\TommyN-P0\\Project0Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Trung\\AppData\\Roaming\\NuGet\\NuGet.Config",

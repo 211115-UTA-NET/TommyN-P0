@@ -16,6 +16,6 @@ namespace Project0Logic
     {
         Order,
         History,
-        Quit
+        Logout
     }
 }

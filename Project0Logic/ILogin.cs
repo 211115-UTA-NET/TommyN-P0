@@ -8,7 +8,7 @@ namespace Project0Logic
 {
     public interface ILogin
     {
-        string Email { get; set; }
+        string Username { get; set; }
         string Password { get; set; }
     }
 }
